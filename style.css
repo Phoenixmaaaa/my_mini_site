@@ -6,7 +6,7 @@ body {
     line-height: 32px;
     color: #222222;
     background-color: #f2f4f6;
-    background-image: url("img/hero-bg.jpg");
+    background-image: url("img/bg.jpg");
     background-repeat: no-repeat;
     background-position: top center;
 }
@@ -171,7 +171,7 @@ body {
 
 .page-footer {
     padding: 40px 0;
-    background-color: #00417d;
+    background-color:#AFEEEE;
     color: #ffffff;
 }
 
@@ -183,12 +183,16 @@ body {
     background-position: left;
 }
 
-.footer-email {
-    padding-left: 30px;
-    background-image: url("img/icon-email-footer.svg");
+.footer-vk {
+    padding-left: 50px;
+    background-image: url("img/footer-vk.svg");
 }
 
-.footer-phone {
-    padding-left: 25px;
-    background-image: url("img/icon-phone-footer.svg");
+.footer-telegram {
+    padding-left: 45px;
+    background-image: url("img/icons8-телеграмма-app.svg");
+}
+.footer-insta {
+    padding-left: 30px;
+    background-image: url("img/icons8-instagram.svg");
 }
